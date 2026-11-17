@@ -1,0 +1,12 @@
+{"qwen2.5-1.5b|closed_book|Q010": "bad", "qwen2.5-1.5b|closed_book|Q002": "bad", "qwen2.5-1.5b|closed_book|Q015": "bad",
+ "qwen2.5-1.5b|closed_book|Q013": "bad", "qwen2.5-1.5b|closed_book|Q014": "bad", "qwen2.5-7b|closed_book|Q001": "bad",
+ "qwen2.5-1.5b|closed_book|Q020": "good", "qwen2.5-7b|closed_book|Q017": "bad", "qwen2.5-7b|closed_book|Q002": "bad",
+ "qwen2.5-7b|closed_book|Q009": "bad",
+ "qwen2.5-1.5b|naive_rag|Q004": "good", "qwen2.5-1.5b|naive_rag|Q001": "good", "qwen2.5-7b|naive_rag|Q002": "good",
+ "qwen2.5-1.5b|naive_rag|Q019": "bad", "qwen2.5-7b|naive_rag|Q018": "good", "qwen2.5-7b|naive_rag|Q010": "good",
+ "qwen2.5-1.5b|naive_rag|Q008": "good", "qwen2.5-7b|naive_rag|Q012": "good", "qwen2.5-7b|naive_rag|Q005": "good",
+ "qwen2.5-7b|naive_rag|Q016": "good",
+ "qwen2.5-1.5b|improved_rag|Q012": "good", "qwen2.5-1.5b|improved_rag|Q009": "good", "qwen2.5-1.5b|improved_rag|Q020": "good",
+ "qwen2.5-7b|improved_rag|Q014": "good", "qwen2.5-7b|improved_rag|Q017": "good", "qwen2.5-7b|improved_rag|Q018": "good",
+ "qwen2.5-7b|improved_rag|Q020": "good", "qwen2.5-1.5b|improved_rag|Q016": "bad", "qwen2.5-1.5b|improved_rag|Q011": "good",
+ "qwen2.5-1.5b|improved_rag|Q013": "good"}

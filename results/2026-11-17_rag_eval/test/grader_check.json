@@ -1,0 +1,28 @@
+{
+ "run": "test",
+ "per_pipeline": {
+  "closed_book": {
+   "n": 10,
+   "agree": 9
+  },
+  "naive_rag": {
+   "n": 10,
+   "agree": 10
+  },
+  "improved_rag": {
+   "n": 10,
+   "agree": 10
+  }
+ },
+ "disagreements": [
+  {
+   "key": "qwen2.5-1.5b|closed_book|Q062",
+   "hand": "good",
+   "grader": "bad",
+   "answer": "No, there is no specific approval code for issuing refunds in the standard support processes of Larkspur Freight Ltd. Refunds are typically processed based on customer requests and internal policies rather than through a predefined approval process. If you need to request a refund, please contact your account manager or support team directly with details about the transaction and reason for the refund."
+  }
+ ],
+ "total_agree": 29,
+ "total_n": 30,
+ "grader": "as recorded in the run"
+}

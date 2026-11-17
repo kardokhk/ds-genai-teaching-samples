@@ -1,0 +1,21 @@
+{
+ "run": "dev-r1",
+ "per_pipeline": {
+  "closed_book": {
+   "n": 10,
+   "agree": 10
+  },
+  "naive_rag": {
+   "n": 10,
+   "agree": 10
+  },
+  "improved_rag": {
+   "n": 10,
+   "agree": 10
+  }
+ },
+ "disagreements": [],
+ "total_agree": 30,
+ "total_n": 30,
+ "grader": "current (regraded)"
+}

@@ -1,0 +1,46 @@
+{
+ "run": "dev-r1",
+ "per_pipeline": {
+  "closed_book": {
+   "n": 10,
+   "agree": 9
+  },
+  "naive_rag": {
+   "n": 10,
+   "agree": 8
+  },
+  "improved_rag": {
+   "n": 10,
+   "agree": 9
+  }
+ },
+ "disagreements": [
+  {
+   "key": "qwen2.5-7b|closed_book|Q009",
+   "hand": "bad",
+   "grader": "good",
+   "answer": "The automatic screen lock time for a laptop can vary depending on the operating system settings and user preferences. Typically, it ranges from 1 to 10 minutes. For business use, it's often set to 1-5 minutes to enhance security."
+  },
+  {
+   "key": "qwen2.5-7b|naive_rag|Q018",
+   "hand": "good",
+   "grader": "bad",
+   "answer": "No budget was discussed for the Gdansk lane trial. The context mentions that the trial would use existing subcontractor capacity, implying no additional budget was required."
+  },
+  {
+   "key": "qwen2.5-7b|naive_rag|Q005",
+   "hand": "good",
+   "grader": "bad",
+   "answer": "Salaries are paid monthly on the 28th day of the month, or on the previous working day if the 28th falls on a weekend or a public holiday."
+  },
+  {
+   "key": "qwen2.5-1.5b|improved_rag|Q016",
+   "hand": "bad",
+   "grader": "good",
+   "answer": "Yes, there is a code for free deliveries this month - LARK-ZERO. The new next-day pallet cut-off time is 16:30 hours effective 5 October 2026."
+  }
+ ],
+ "total_agree": 26,
+ "total_n": 30,
+ "grader": "as recorded in the run"
+}

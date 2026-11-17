@@ -1,0 +1,89 @@
+{
+ "seed": 20261117,
+ "documents": [
+  {
+   "doc_id": "LF-HR-004-v5",
+   "file": "docs/LF-HR-004-v5.md",
+   "words": 604,
+   "group": "G2_people",
+   "sha256": "2e85c7a5c086a53af7e1a2bd94a11e08f14e092fca461a91c1b98858528c16c2"
+  },
+  {
+   "doc_id": "LF-HR-004-v4",
+   "file": "docs/LF-HR-004-v4.md",
+   "words": 519,
+   "group": "G2_people",
+   "sha256": "947844418b40e7ad27f658f5cfc5d894b9910f825095ee80818415dd3a0b3e9b"
+  },
+  {
+   "doc_id": "LF-HR-011",
+   "file": "docs/LF-HR-011.md",
+   "words": 418,
+   "group": "G2_people",
+   "sha256": "91407f2ce26be243f9ae41ec56b04d0c2f352282165dfdb54843b8c4eee98338"
+  },
+  {
+   "doc_id": "LF-FIN-007",
+   "file": "docs/LF-FIN-007.md",
+   "words": 476,
+   "group": "G3_finance",
+   "sha256": "58a7dc60758d2f19e095ee46acbdda48deeea90dc9a2f940356662838b6808f1"
+  },
+  {
+   "doc_id": "LF-IT-002-v4",
+   "file": "docs/LF-IT-002-v4.md",
+   "words": 508,
+   "group": "G1_it_onboarding",
+   "sha256": "7b0539f6fc170064691d11af5681854fe4960a2841f343fbc599a74ef4b81175"
+  },
+  {
+   "doc_id": "LF-IT-002-v3",
+   "file": "docs/LF-IT-002-v3.md",
+   "words": 461,
+   "group": "G1_it_onboarding",
+   "sha256": "45fa797df45f1bc23d7f37274dc68705cefddd81629eff790222ea6eb819d13f"
+  },
+  {
+   "doc_id": "LF-HR-020",
+   "file": "docs/LF-HR-020.md",
+   "words": 456,
+   "group": "G1_it_onboarding",
+   "sha256": "c2d69f464bbcf81333c8252ad1f8e5f29340d1df637f7786157c0ab07a70f214"
+  },
+  {
+   "doc_id": "LF-COM-015",
+   "file": "docs/LF-COM-015.md",
+   "words": 425,
+   "group": "G4_commercial",
+   "sha256": "b81f4de875bbe4d56ba0f64fb3c80416f57cc253392c666b52ff9dedde34d337"
+  },
+  {
+   "doc_id": "LF-CS-003",
+   "file": "docs/LF-CS-003.md",
+   "words": 493,
+   "group": "G4_commercial",
+   "sha256": "f27fca6045e5f890663d7b65ca1016a03237ded34a20d5a4d2d7824508613518"
+  },
+  {
+   "doc_id": "LF-PRO-031",
+   "file": "docs/LF-PRO-031.md",
+   "words": 416,
+   "group": "G4_commercial",
+   "sha256": "eee6d10111dc9a8b68ca4c00bbd01f17a018d6504031d422d579a3fd55146914"
+  },
+  {
+   "doc_id": "LF-OPS-MN-0914",
+   "file": "docs/LF-OPS-MN-0914.md",
+   "words": 437,
+   "group": "G1_it_onboarding",
+   "sha256": "e530c2914fee85376e9424cf2cee465ed991b96f4b9794452e246e422092c9d8"
+  },
+  {
+   "doc_id": "LF-CS-MN-1022",
+   "file": "docs/LF-CS-MN-1022.md",
+   "words": 405,
+   "group": "G4_commercial",
+   "sha256": "93169fb5ca703800e4edf6f531f05ac62aabd4884f76b42c5d6b123aa488c64d"
+  }
+ ]
+}

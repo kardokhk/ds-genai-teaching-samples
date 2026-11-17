@@ -1,0 +1,22 @@
+# working material (never published)
+notes/
+drafts/
+submission/
+build/
+logs/
+local.env
+.env
+*.docx
+
+# regenerable outputs
+build/
+runs/
+lab_cache.jsonl
+code/genai/notebooks/genai_corpus/
+
+# caches and tooling
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+slurm-*.out

@@ -1,0 +1,4 @@
+qwen2.5-7b closed_book: 21 questions in 0.6 s
+qwen2.5-7b naive_rag: 21 questions in 1.1 s
+qwen2.5-7b improved_rag: 21 questions in 23.3 s
+cache hits 42, misses 21; total 155.4 s
